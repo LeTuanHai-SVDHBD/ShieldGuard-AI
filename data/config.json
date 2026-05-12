@@ -1,0 +1,16 @@
+{
+  "timer_interval": 407,
+  "thoi_gian_giu": 20,
+  "vung_quet_ratio": 0.5,
+  "zoom_factor": 2.5,
+  "score_threshold": 0.45,
+  "start_with_windows": true,
+  "minimize_to_tray": false,
+  "settings_password": "",
+  "emergency_hotkey": "S+S+O",
+  "sound_alert": true,
+  "battery_saver": false,
+  "monitor_index": 1,
+  "version": "1.0.0",
+  "run_at_startup": false
+}
