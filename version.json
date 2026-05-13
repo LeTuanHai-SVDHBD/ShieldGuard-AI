@@ -1,5 +1,5 @@
 {
   "latest_version": "1.0.2",
-  "download_url": "https://github.com/<user>/<repo>/releases/download/<tag>/ShieldGuard.zip",
+  "download_url": "https://github.com/LeTuanHai-SVDHBD/ShieldGuard-AI/releases/download/v1.0.2/ShieldGuard.zip",
   "changelog": "- Fix updater access denied\n- Fix startup errors\n"
 }
